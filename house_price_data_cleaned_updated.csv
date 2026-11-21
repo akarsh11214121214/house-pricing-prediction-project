@@ -1,0 +1,93 @@
+Id,MSSubClass,MSZoning,LotFrontage,Neighborhood,OverallQual,GrLivArea,GarageType,GarageArea,Functional,Electrical,KitchenQual,Exterior1st,Exterior2nd,SaleType,TotalBsmtSF,1stFlrSF,2ndFlrSF,FullBath,HalfBath,Fireplaces,SalePrice
+1001,20,RL,90.0,NoRidge,6,1522,Attchd,601.0,Mod,FuseA,Ex,HdBoard,VinylSd,ConLD,120.0,1297,225,1,0,1,262786
+1002,70,RM,69.0,NoRidge,8,1736,Attchd,310.0,Min2,FuseA,TA,Wd Sdng,HdBoard,ConLD,630.0,827,909,1,1,2,288391
+1003,70,RM,90.0,NoRidge,4,1391,Attchd,326.0,Mod,FuseA,TA,HdBoard,Wd Sdng,WD,696.0,643,748,2,0,2,213422
+1004,50,RL,93.0,CollgCr,6,1327,BuiltIn,158.0,Min1,FuseF,Fa,HdBoard,Wd Sdng,New,790.0,1269,58,3,0,0,246925
+1005,30,RM,90.0,NoRidge,3,2282,BuiltIn,139.0,Min2,FuseA,TA,VinylSd,VinylSd,WD,1126.0,607,1675,3,1,2,245036
+1006,50,RM,90.0,NoRidge,6,2324,BuiltIn,395.0,Min1,FuseA,Fa,VinylSd,HdBoard,New,110.0,1364,960,2,1,1,292115
+1007,80,RL,37.0,Mitchel,4,2261,BuiltIn,40.0,Min1,FuseA,Gd,Wd Sdng,HdBoard,WD,1197.0,881,1380,3,0,1,260484
+1008,50,RM,44.0,CollgCr,3,2165,Attchd,505.0,Typ,FuseA,TA,HdBoard,MetalSd,COD,975.0,1061,1104,3,0,2,240910
+1009,60,FV,116.0,Veenker,3,1350,Detchd,82.0,Min1,FuseF,Fa,HdBoard,MetalSd,New,474.0,1561,0,2,1,1,185534
+1010,20,RL,72.0,CollgCr,9,942,Attchd,319.0,Min1,FuseF,Ex,HdBoard,HdBoard,COD,985.0,802,140,3,0,2,279549
+1011,20,RL,43.0,Crawfor,7,1894,Detchd,59.0,Typ,FuseA,Fa,VinylSd,HdBoard,ConLD,1060.0,1015,879,3,0,0,289043
+1012,80,RL,72.0,Crawfor,5,1863,Attchd,413.0,Min2,FuseA,Gd,Wd Sdng,VinylSd,COD,412.0,622,1241,1,1,1,251070
+1014,20,FV,55.0,Veenker,7,2087,Attchd,508.0,Min2,FuseA,Gd,Wd Sdng,HdBoard,ConLD,1314.0,1368,719,1,0,1,322713
+1015,80,RL,52.0,Veenker,9,1906,Attchd,203.0,Mod,FuseF,TA,Wd Sdng,VinylSd,COD,870.0,1115,791,3,0,2,337201
+1016,80,RL,53.0,Mitchel,9,920,Detchd,363.0,Typ,SBrkr,TA,Wd Sdng,Wd Sdng,WD,657.0,915,5,1,1,1,277349
+1017,20,RL,40.0,CollgCr,8,2394,Attchd,107.0,Min1,FuseF,Gd,MetalSd,HdBoard,WD,1045.0,779,1615,2,1,2,344553
+1018,80,FV,49.0,CollgCr,4,1230,BuiltIn,0.0,Mod,FuseF,TA,Wd Sdng,VinylSd,COD,25.0,1277,0,3,0,0,187125
+1019,70,RL,71.0,CollgCr,3,1777,Attchd,649.0,Mod,FuseF,Gd,VinylSd,MetalSd,COD,113.0,997,780,3,0,0,212095
+1020,20,RL,106.0,NoRidge,3,2074,Attchd,98.0,Min2,FuseF,Fa,VinylSd,MetalSd,WD,1048.0,1019,1055,1,1,0,230107
+1021,30,RL,56.0,Mitchel,8,1579,BuiltIn,162.0,Mod,FuseA,TA,MetalSd,Wd Sdng,ConLD,467.0,1130,449,3,1,2,293838
+1022,30,RL,80.0,Crawfor,4,1210,Attchd,165.0,Typ,FuseF,Gd,HdBoard,Wd Sdng,WD,1392.0,1346,0,3,1,2,194410
+1023,80,FV,85.0,Mitchel,4,996,Attchd,199.0,Min1,FuseA,Ex,MetalSd,Wd Sdng,New,808.0,753,243,2,0,1,174361
+1024,70,RM,118.0,Veenker,6,2098,Attchd,612.0,Mod,FuseA,Gd,VinylSd,VinylSd,New,1109.0,1451,647,2,0,1,287517
+1026,60,RL,90.0,NoRidge,3,2269,Detchd,375.0,Typ,SBrkr,Gd,HdBoard,VinylSd,New,0.0,1114,1155,3,1,2,236576
+1027,60,RL,63.0,Veenker,5,1659,Detchd,256.0,Mod,FuseA,Fa,HdBoard,HdBoard,COD,1031.0,927,732,2,0,0,248706
+1028,80,RL,76.0,Mitchel,7,1084,BuiltIn,563.0,Min2,FuseF,Fa,VinylSd,Wd Sdng,COD,774.0,1132,0,3,1,0,247209
+1029,60,RL,72.0,CollgCr,8,1803,Attchd,59.0,Mod,FuseF,Fa,Wd Sdng,VinylSd,New,732.0,1535,268,3,0,2,309260
+1030,70,RL,39.0,Crawfor,3,1689,Attchd,431.0,Mod,FuseF,Ex,HdBoard,VinylSd,COD,234.0,771,918,1,1,0,205923
+1031,20,FV,106.0,Mitchel,3,2193,Attchd,81.0,Typ,FuseF,Fa,Wd Sdng,MetalSd,New,1009.0,687,1506,2,1,2,231551
+1032,70,RM,80.0,Veenker,5,1294,Detchd,0.0,Mod,FuseF,Gd,Wd Sdng,MetalSd,New,1345.0,747,547,1,1,1,223239
+1033,20,FV,90.0,Veenker,9,709,BuiltIn,502.0,Typ,FuseF,Ex,VinylSd,VinylSd,New,0.0,1551,0,2,0,0,279659
+1034,70,RM,71.0,Mitchel,5,2539,Attchd,320.0,Typ,FuseF,Ex,HdBoard,Wd Sdng,ConLD,441.0,1042,1497,1,0,1,297019
+1035,20,FV,72.0,CollgCr,9,745,Attchd,0.0,Mod,FuseF,Fa,VinylSd,VinylSd,ConLD,191.0,1250,0,2,0,2,270025
+1036,30,RL,112.0,NoRidge,3,710,Attchd,3.0,Min2,FuseA,Fa,Wd Sdng,VinylSd,ConLD,218.0,651,59,3,1,2,147967
+1038,20,RL,43.0,Veenker,7,1692,Attchd,686.0,Min1,SBrkr,Gd,VinylSd,Wd Sdng,WD,1049.0,1211,481,2,0,0,294531
+1039,50,RM,85.0,Mitchel,6,1731,Attchd,548.0,Min2,FuseF,Gd,MetalSd,HdBoard,ConLD,356.0,1236,495,3,1,1,256016
+1040,20,FV,74.0,CollgCr,6,2012,Detchd,282.0,Mod,FuseA,Gd,MetalSd,Wd Sdng,New,1279.0,1074,938,1,0,2,276430
+1041,20,RL,106.0,Crawfor,4,2503,Detchd,411.0,Min1,FuseA,Ex,MetalSd,MetalSd,COD,842.0,917,1586,3,0,0,271852
+1042,60,FV,90.0,NoRidge,5,1167,Detchd,551.0,Min2,FuseF,TA,Wd Sdng,Wd Sdng,COD,0.0,1149,18,1,0,1,220079
+1043,70,RM,57.0,Crawfor,8,1167,Attchd,220.0,Typ,SBrkr,Ex,HdBoard,HdBoard,WD,727.0,1437,0,2,0,0,257529
+1044,70,RM,40.0,Veenker,8,2415,Attchd,10.0,Min2,FuseA,Ex,Wd Sdng,VinylSd,ConLD,611.0,1427,988,3,1,1,326311
+1045,50,RL,71.0,NoRidge,5,2164,Attchd,481.0,Typ,SBrkr,Ex,VinylSd,HdBoard,ConLD,201.0,1305,859,3,0,2,270395
+1046,80,FV,116.0,Mitchel,6,1080,Detchd,587.0,Typ,FuseA,Gd,HdBoard,Wd Sdng,WD,1122.0,1590,0,2,0,1,237535
+1047,30,RL,72.0,CollgCr,9,2487,BuiltIn,31.0,Min1,SBrkr,Fa,Wd Sdng,HdBoard,COD,884.0,832,1655,1,0,0,354839
+1048,60,RL,90.0,NoRidge,7,2209,Detchd,534.0,Min2,FuseF,Ex,Wd Sdng,HdBoard,COD,859.0,658,1551,3,0,2,315499
+1050,30,RM,57.0,CollgCr,3,1855,Attchd,649.0,Min2,FuseA,Ex,Wd Sdng,Wd Sdng,COD,967.0,1048,807,2,0,0,229270
+1051,80,RL,118.0,Crawfor,8,1936,Attchd,632.0,Mod,FuseA,Ex,MetalSd,Wd Sdng,COD,721.0,1320,616,1,1,1,324804
+1052,50,RM,44.0,Mitchel,9,992,Attchd,201.0,Mod,FuseA,Fa,Wd Sdng,Wd Sdng,New,1150.0,1333,0,3,1,1,276097
+1053,30,RM,55.0,Mitchel,5,840,Attchd,555.0,Typ,FuseA,Fa,VinylSd,HdBoard,WD,909.0,684,156,1,1,1,211567
+1054,80,RL,99.0,NoRidge,7,1948,Attchd,541.0,Typ,FuseF,Gd,VinylSd,Wd Sdng,COD,11.0,1465,483,3,1,1,297394
+1055,30,RL,80.0,NoRidge,3,2143,Attchd,280.0,Mod,SBrkr,Ex,MetalSd,HdBoard,New,979.0,1495,648,2,1,0,228476
+1056,20,RL,62.5,Veenker,9,2346,Attchd,131.0,Mod,FuseA,Ex,VinylSd,VinylSd,COD,951.0,684,1662,3,0,1,355547
+1057,30,RM,107.0,Mitchel,7,2095,Attchd,416.0,Typ,SBrkr,Ex,VinylSd,HdBoard,New,84.0,992,1103,2,1,0,296310
+1058,80,FV,109.0,NoRidge,5,1554,Detchd,294.0,Min2,SBrkr,Fa,Wd Sdng,HdBoard,COD,1242.0,1559,0,3,1,1,242822
+1059,80,RL,53.0,NoRidge,7,1877,Attchd,457.0,Typ,FuseA,Gd,Wd Sdng,MetalSd,ConLD,35.0,899,978,3,0,0,280448
+1060,60,RL,72.5,Crawfor,6,2504,Attchd,696.0,Min1,SBrkr,Gd,MetalSd,HdBoard,ConLD,824.0,1274,1230,1,1,2,325581
+1062,80,RL,89.0,CollgCr,5,2177,Detchd,42.0,Min1,SBrkr,Gd,Wd Sdng,VinylSd,WD,1256.0,1298,879,2,0,2,265980
+1063,20,RL,58.0,Crawfor,6,755,Detchd,0.0,Mod,FuseA,Fa,MetalSd,HdBoard,WD,574.0,1031,0,2,1,1,214727
+1064,70,RL,55.0,Veenker,9,1616,Attchd,33.0,Typ,SBrkr,Fa,VinylSd,Wd Sdng,WD,692.0,1060,556,3,1,0,296520
+1065,20,RL,95.0,CollgCr,7,1603,Attchd,169.0,Min1,SBrkr,Fa,Wd Sdng,Wd Sdng,ConLD,124.0,1169,434,1,1,2,272757
+1066,30,RL,56.0,Veenker,9,1758,Attchd,318.0,Typ,FuseA,Gd,VinylSd,MetalSd,New,1355.0,1203,555,3,1,0,323622
+1067,60,FV,104.0,Veenker,3,2337,Attchd,20.0,Mod,SBrkr,TA,Wd Sdng,VinylSd,COD,1030.0,946,1391,2,0,2,232306
+1068,30,RM,100.0,CollgCr,4,1973,Attchd,485.0,Min2,FuseA,Gd,VinylSd,MetalSd,ConLD,84.0,772,1201,3,1,0,248995
+1069,20,RL,70.0,Mitchel,6,1014,Detchd,435.0,Typ,SBrkr,TA,MetalSd,VinylSd,WD,255.0,873,141,3,0,1,223669
+1070,80,RL,106.0,Mitchel,4,1877,BuiltIn,427.0,Min2,FuseF,TA,HdBoard,Wd Sdng,COD,259.0,1153,724,2,0,2,236999
+1071,80,RL,37.0,CollgCr,8,1381,Detchd,364.0,Min1,FuseF,Gd,VinylSd,MetalSd,WD,599.0,1007,374,3,0,2,289502
+1072,80,RL,118.0,Mitchel,9,1163,Detchd,148.0,Min2,FuseF,Ex,Wd Sdng,Wd Sdng,COD,479.0,1069,94,3,1,1,289049
+1074,60,RL,88.0,Veenker,5,1361,Attchd,426.0,Min1,FuseA,Gd,HdBoard,Wd Sdng,WD,799.0,1180,181,2,0,0,231257
+1075,30,RM,61.0,CollgCr,7,788,Attchd,237.0,Min1,SBrkr,Fa,VinylSd,HdBoard,COD,33.0,1554,0,3,0,0,210324
+1076,20,FV,73.0,Crawfor,4,943,Detchd,31.0,Typ,SBrkr,Gd,Wd Sdng,HdBoard,ConLD,12.0,1081,0,1,1,0,173351
+1077,70,RM,43.0,Mitchel,9,1866,Detchd,687.0,Mod,FuseF,Ex,MetalSd,HdBoard,COD,496.0,1552,314,2,0,1,322003
+1078,60,RL,41.0,CollgCr,4,1563,Detchd,112.0,Typ,FuseF,Gd,Wd Sdng,VinylSd,WD,149.0,1451,112,2,1,1,212860
+1079,60,FV,69.0,Mitchel,3,1142,Attchd,627.0,Typ,SBrkr,Fa,MetalSd,VinylSd,ConLD,1017.0,700,442,2,0,0,196123
+1080,60,RL,98.0,Mitchel,5,1716,Attchd,371.0,Min1,FuseA,Gd,HdBoard,HdBoard,COD,1007.0,848,868,1,0,0,241496
+1081,50,RM,105.0,Crawfor,6,1386,Attchd,92.0,Mod,SBrkr,TA,HdBoard,Wd Sdng,WD,503.0,725,661,1,1,0,236858
+1082,50,RL,48.0,CollgCr,9,703,BuiltIn,225.0,Typ,FuseF,Fa,MetalSd,HdBoard,New,1281.0,1208,0,1,0,2,263597
+1083,80,RL,105.0,CollgCr,9,1995,BuiltIn,238.0,Mod,SBrkr,TA,Wd Sdng,MetalSd,New,782.0,650,1345,3,0,0,338411
+1084,30,RL,99.0,NoRidge,3,1750,Attchd,0.0,Min1,FuseA,TA,Wd Sdng,MetalSd,COD,392.0,880,870,3,0,1,214242
+1086,30,RM,76.0,Mitchel,8,1227,Attchd,694.0,Min1,FuseA,Fa,MetalSd,VinylSd,COD,634.0,1131,96,3,1,0,274620
+1087,60,FV,96.0,Crawfor,9,1327,Detchd,293.0,Min1,FuseF,TA,MetalSd,MetalSd,COD,265.0,1247,80,2,0,2,287406
+1088,30,RL,110.0,CollgCr,5,2229,BuiltIn,138.0,Mod,SBrkr,Gd,HdBoard,HdBoard,COD,227.0,1378,851,3,1,2,257275
+1089,80,FV,98.0,Mitchel,4,2525,Detchd,379.0,Min2,FuseF,Gd,HdBoard,HdBoard,COD,764.0,1301,1224,3,1,1,276022
+1090,60,RL,80.0,CollgCr,5,2031,Attchd,612.0,Min2,FuseA,Gd,MetalSd,Wd Sdng,New,1347.0,1210,821,2,0,0,286795
+1091,70,RM,69.0,Veenker,9,2513,Attchd,646.0,Min2,FuseA,Ex,VinylSd,MetalSd,COD,442.0,1443,1070,3,1,0,370610
+1092,60,RL,60.0,Veenker,4,1577,Attchd,410.0,Typ,FuseA,Gd,Wd Sdng,VinylSd,ConLD,0.0,1009,568,1,0,1,226424
+1093,30,RL,94.0,CollgCr,8,1849,Attchd,80.0,Mod,FuseF,Gd,Wd Sdng,MetalSd,WD,161.0,990,859,2,1,0,287009
+1094,80,FV,85.0,CollgCr,8,1173,Attchd,189.0,Min2,FuseA,TA,MetalSd,HdBoard,COD,666.0,1484,0,1,1,1,256349
+1095,70,RM,35.0,NoRidge,9,745,Attchd,699.0,Typ,FuseA,TA,VinylSd,HdBoard,COD,44.0,1116,0,1,0,2,269349
+1096,70,RM,62.0,Veenker,8,1994,BuiltIn,582.0,Typ,FuseF,Gd,VinylSd,MetalSd,ConLD,1268.0,1421,573,3,0,1,322407
+1098,20,RL,40.0,CollgCr,9,1209,Detchd,576.0,Min1,FuseF,TA,MetalSd,MetalSd,ConLD,774.0,1138,71,2,1,0,285681
+1099,70,RM,61.0,Crawfor,5,1482,Attchd,153.0,Typ,FuseF,TA,HdBoard,MetalSd,ConLD,875.0,808,674,2,1,2,221229
+1100,80,FV,72.0,CollgCr,7,1041,Attchd,314.0,Min1,FuseA,Fa,HdBoard,HdBoard,COD,1285.0,992,49,1,1,2,261997
